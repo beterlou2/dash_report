@@ -1,0 +1,184 @@
+.page {
+	width: 60%;
+	margin: auto;
+	font-family: Times New Roman;
+}
+
+.header {
+	font-weight: bold;
+	margin-bottom:16px;
+}
+
+.title {
+	height: 90px;
+}
+
+#title_part1 {
+	margin-top: 10px;
+	margin-left: 5px;
+	font-size: 20px;
+}
+
+#title_part2 {
+	margin-top: 10px;
+	margin-left: 10px;
+	font-size: 15px;
+}
+
+#title_part3 {
+	margin-top: 40px;
+	margin-right: 10px;
+}
+
+#title_left {
+	width: 70%;
+	height: 70px;
+	float:left;
+	background-color: gray;
+	color: red;
+	font-weight: bold;
+}
+
+#title_right {
+
+	width: 30%;
+	height: 70px;
+	float: right;
+	
+	background-color: red; 
+	text-align: right;
+	color: white;
+}
+
+.body {
+	
+}
+
+.col_left{
+	float: left;
+	width: 37%;
+}
+
+#subsect1{
+	
+}
+
+#subsect1_left{
+	position: relative;
+	float: left;
+}
+
+#border_bot {
+	float: left;
+	width: 100%;
+	position: relative;
+	border-bottom: solid 1px gray;
+}
+
+#subsect1_right{
+	position: relative;
+	float: right;
+	text-align: right;
+}
+
+#staff_info {
+	margin-top: 20px;
+	float: left;
+}
+
+.staff_name {
+	height: 20px;
+	font-weight: bold;
+}
+
+.staff_position {
+	font-size: 14px;
+	height: 45px;
+}
+
+#staff_contact {
+	margin-top: 20px;
+	float: right;
+}
+
+.block2 {
+	float: left;
+}
+
+.study_details {
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+.contact_info {
+	height: 65px;
+}
+
+.block3 {
+	float: left;
+	width: 100%;
+	height: 200px;
+}
+
+.para_title {
+	color: red;
+	font-weight: bold;
+}
+
+.section_title {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: gray;
+	float: left;
+	width: 100%;
+	color: white;
+}
+
+.stocks_graph {
+	float: left;
+	margin-top: 0;
+}
+
+.col_right{
+	float: right;
+	width: 62%;
+}
+
+.cr_title {
+	font-size: 32px;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.cr_title2 {
+	font-size: 20px;
+	border-bottom: 1px solid red;
+	margin-bottom: 20px;
+}
+
+.col_bot {
+	height: 300px;
+	width: 100%;
+	float: left;
+}
+
+#table1 {
+	margin-top: 20px;
+	float: left;
+}
+
+#block4 {
+	float: left;
+	height: 170px;
+	margin-top: 30px;	
+	border-bottom: solid 1px;
+}
+
+#block5 {
+	float: right;
+	height: 170px;
+	width: 62%;
+	margin-top: 30px;	
+	border-bottom: solid 1px;
+}
